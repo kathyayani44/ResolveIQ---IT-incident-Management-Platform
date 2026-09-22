@@ -1,0 +1,250 @@
+[
+  {
+    "id": "usr-default-001",
+    "email": "usravya1@gmail.com",
+    "name": "Sravya Ullamgunta",
+    "pwd_hash": "3a4e3e9900f9e7abba2949a84448533a9849380aec335c65729a53d1bc4b276b",
+    "salt": "f1ea199383d11b90165a61a2aa5dff70",
+    "created_at": "2026-09-12T08:29:45.451840+00:00"
+  },
+  {
+    "id": "usr-9425917bca14",
+    "email": "new_ops_engineer@resolveiq.io",
+    "name": "DevOps Engineer",
+    "pwd_hash": "f40e4ad2182d1f9d40e609d433f2634f2602869649c8616a0b0e4aba3c689c97",
+    "salt": "3f404a5fa1ecac8f91b6b68cd2404fd0",
+    "created_at": "2026-09-12T08:54:40.751903+00:00"
+  },
+  {
+    "id": "usr-33b52a29cc24",
+    "email": "duplicate_test@resolveiq.io",
+    "name": "Original User",
+    "pwd_hash": "a99d3b4d3d3830b4236c78e08a4d27d07b62732949e6c41a36b12fb4c66ad58e",
+    "salt": "f2297ca746c93d04c48710f19aeb3887",
+    "created_at": "2026-09-12T08:54:42.359309+00:00"
+  },
+  {
+    "id": "usr-9dbd3b85e207",
+    "email": "login_test@resolveiq.io",
+    "name": "Login Tester",
+    "pwd_hash": "7321785cc8eefb6ea20fc6cf153090ce29647f37b54149104bfbfc7712c66fe4",
+    "salt": "2a544b34b051bf65a7807aa22e6dfbe8",
+    "created_at": "2026-09-12T08:54:43.386254+00:00"
+  },
+  {
+    "id": "usr-674084d50e6c",
+    "email": "bad_pwd_test@resolveiq.io",
+    "name": "Bad Pwd Tester",
+    "pwd_hash": "bc69a45b284b0ad1b841821609cd7c3fd0099e8faa456e41415d4d8421b83e32",
+    "salt": "8c26065789bd24ee9ebd1f88e85f18e8",
+    "created_at": "2026-09-12T08:54:44.999998+00:00"
+  },
+  {
+    "id": "usr-caf7098de220",
+    "email": "session_user@resolveiq.io",
+    "name": "Session User",
+    "pwd_hash": "deddf80204a33df8fffe262fdda6e47f41a40dcedd302dd8a2c3998920d6645f",
+    "salt": "fa89f5a4ff054cce4eed6847740ba017",
+    "created_at": "2026-09-12T08:54:46.824433+00:00"
+  },
+  {
+    "id": "usr-2b05eada8ea8",
+    "email": "ops_73bdaed2@resolveiq.io",
+    "name": "DevOps Engineer",
+    "pwd_hash": "8ca9d8b8ca17ff1f263c2bae7e72778fab41c09b9dc64ac387895f611bc1ec26",
+    "salt": "2e8fa9fe5e63d0c6f9ca571647a51933",
+    "created_at": "2026-09-12T09:05:10.889881+00:00"
+  },
+  {
+    "id": "usr-f3c6aafd255b",
+    "email": "dup_8a3d2407@resolveiq.io",
+    "name": "Original User",
+    "pwd_hash": "767f64777db1944f3854343e3ac230972e84fbb0c922ad100c1f47ccb80e163a",
+    "salt": "b87d93c6a0565b333e69ec7ca0492f87",
+    "created_at": "2026-09-12T09:05:12.313569+00:00"
+  },
+  {
+    "id": "usr-dbf9039be237",
+    "email": "login_a0b8c38d@resolveiq.io",
+    "name": "Login Tester",
+    "pwd_hash": "7deab1d880eb5b903da0c1a13bd3fa78a878255affcfc98afb3ec2a66b66958c",
+    "salt": "9cb29c2d6e3075b4e191453cb7f77eec",
+    "created_at": "2026-09-12T09:05:14.170226+00:00"
+  },
+  {
+    "id": "usr-a2bfae2b35fe",
+    "email": "bad_pwd_a68bbeb6@resolveiq.io",
+    "name": "Bad Pwd Tester",
+    "pwd_hash": "ac4950cbac620388b3c5ac096a839b316d886ea1a9fd6f08c5f7ec64a5deb939",
+    "salt": "af3bb936bffa3a7ff13d2cf74d38c2b6",
+    "created_at": "2026-09-12T09:05:15.370211+00:00"
+  },
+  {
+    "id": "usr-421f6c46d2f5",
+    "email": "session_a4b30931@resolveiq.io",
+    "name": "Session User",
+    "pwd_hash": "7e9d7646a2101019e781dc706b77af2674d8d9af5168e1aad024accbae42f6cf",
+    "salt": "ad79b62854ee87b15660aa5a2b96569a",
+    "created_at": "2026-09-12T09:05:17.261696+00:00"
+  },
+  {
+    "id": "usr-6a858670447d",
+    "email": "ops_5b9ac0d3@resolveiq.io",
+    "name": "DevOps Engineer",
+    "pwd_hash": "32f53ec4d680d0c2402ca130ad038acd2787d339352e59f230dcda3471a6a076",
+    "salt": "649bdff4f08357ec378a197715b01fdf",
+    "created_at": "2026-09-12T09:14:52.419756+00:00"
+  },
+  {
+    "id": "usr-cc28d7b54481",
+    "email": "dup_4c772156@resolveiq.io",
+    "name": "Original User",
+    "pwd_hash": "38af3fc500b94eddf7f8f6331b5de0d6856881d76eaaecfce1dbde27540926f1",
+    "salt": "c96d4c83738acf81feed3c0a5279a27d",
+    "created_at": "2026-09-12T09:14:53.785005+00:00"
+  },
+  {
+    "id": "usr-26be66ee164c",
+    "email": "login_3841ae81@resolveiq.io",
+    "name": "Login Tester",
+    "pwd_hash": "05ce01bf195ed41be120c71955a9faaa5c4b9922a47b8352fc870edee8841c49",
+    "salt": "a3ecf7f145372b8746b4e2c613b7117f",
+    "created_at": "2026-09-12T09:14:54.901823+00:00"
+  },
+  {
+    "id": "usr-5553e933b011",
+    "email": "bad_pwd_9c6fa4a7@resolveiq.io",
+    "name": "Bad Pwd Tester",
+    "pwd_hash": "1ea9312f5198cfca547aa14a77ed62e29e5f106ff64e7a765fa5d61d9fd57c0d",
+    "salt": "2fec21cb3c492d8be0d8bdefdb7a56aa",
+    "created_at": "2026-09-12T09:14:56.342988+00:00"
+  },
+  {
+    "id": "usr-ea43cd03e8d5",
+    "email": "session_ce660e0c@resolveiq.io",
+    "name": "Session User",
+    "pwd_hash": "8b19325cae125d85b076d8aefa89fe0229cbf196337bffd06f569b5607cd013b",
+    "salt": "29b4bd6472fb01d46e0627d3517a3837",
+    "created_at": "2026-09-12T09:14:58.000210+00:00"
+  },
+  {
+    "id": "usr-dfd85febdec1",
+    "email": "ops_7faad627@resolveiq.io",
+    "name": "DevOps Engineer",
+    "pwd_hash": "2254cf92db61cbc6d7c898a9c35343843bd797141808e9db3423b8d9d8db8fc1",
+    "salt": "8c02574825e07201043e3a9e11d8dd1c",
+    "created_at": "2026-09-12T13:02:20.502824+00:00"
+  },
+  {
+    "id": "usr-bd50b9210bc0",
+    "email": "dup_49a15886@resolveiq.io",
+    "name": "Original User",
+    "pwd_hash": "0b03fb8e52dbb246c2c75d1c2c3b3cd0ffb825f07e50e82c4981937638e61058",
+    "salt": "74990d641e0925acfd66a97f5047c62c",
+    "created_at": "2026-09-12T13:02:22.005326+00:00"
+  },
+  {
+    "id": "usr-c1755c270503",
+    "email": "login_15678464@resolveiq.io",
+    "name": "Login Tester",
+    "pwd_hash": "8464ab91d10478603aac0b46a517ebb92697833146ad5b1c9040b1bdf03d2d1d",
+    "salt": "f3cd55d9aeeaeab86f828df014d4094f",
+    "created_at": "2026-09-12T13:02:23.612009+00:00"
+  },
+  {
+    "id": "usr-7f5ba5778a92",
+    "email": "bad_pwd_c228c3a4@resolveiq.io",
+    "name": "Bad Pwd Tester",
+    "pwd_hash": "42f7fa0eb2eb6f0f730d51ded3071b5890489fd972db468268e68f53bba85380",
+    "salt": "925f4cb464c128d5f4e928cca1752e85",
+    "created_at": "2026-09-12T13:02:24.671569+00:00"
+  },
+  {
+    "id": "usr-316bb7b948d0",
+    "email": "session_28ef2351@resolveiq.io",
+    "name": "Session User",
+    "pwd_hash": "17c4312e9b85c8a71141205ba146fc65d2b749c1eedd424172cbb3229c5de246",
+    "salt": "3b7021e60709708756d050b142e5f0ec",
+    "created_at": "2026-09-12T13:02:26.471432+00:00"
+  },
+  {
+    "id": "usr-ef95a4f3b7c9",
+    "email": "ops_8886b7b9@resolveiq.io",
+    "name": "DevOps Engineer",
+    "pwd_hash": "7f1cb83e3c2eb0ce89b2ee6df67ebefcbdc88ad4f449b936f350b148b3af364b",
+    "salt": "0f0483d2c836e88b5a19390b04165ccc",
+    "created_at": "2026-09-12T13:04:15.715178+00:00"
+  },
+  {
+    "id": "usr-4063e11de79e",
+    "email": "dup_fc320490@resolveiq.io",
+    "name": "Original User",
+    "pwd_hash": "ee8f105b4d4af8585904c81f5c0757c7057603314bbba4485de10fba4c71de2f",
+    "salt": "1b346e49d2e003e564ed35a6963e8567",
+    "created_at": "2026-09-12T13:04:19.409811+00:00"
+  },
+  {
+    "id": "usr-42d53536ceaa",
+    "email": "login_bd761855@resolveiq.io",
+    "name": "Login Tester",
+    "pwd_hash": "45fd1234779a957c79408ae59e6c93642f77a70fb75362277c18fec5365147d5",
+    "salt": "bc111716091f86d6d8f72269eb223900",
+    "created_at": "2026-09-12T13:04:22.932171+00:00"
+  },
+  {
+    "id": "usr-b2daa352bde1",
+    "email": "bad_pwd_cfb631b8@resolveiq.io",
+    "name": "Bad Pwd Tester",
+    "pwd_hash": "9fa0f9e775bbd25f841dccb03339be8f6b8e870d0b6c455aa0a5466d08b4de54",
+    "salt": "02760da56f64d9bcbd59581703920c8d",
+    "created_at": "2026-09-12T13:04:26.060210+00:00"
+  },
+  {
+    "id": "usr-2e767fc962d9",
+    "email": "session_ad322bb1@resolveiq.io",
+    "name": "Session User",
+    "pwd_hash": "465a1018401ab6dfc75ebbbb965dda537880ca0773ff4e937b10b7c2e5dfc0f0",
+    "salt": "75c5980ba09b397218d38bef0173bbf1",
+    "created_at": "2026-09-12T13:04:28.411270+00:00"
+  },
+  {
+    "id": "usr-dfc7748dce67",
+    "email": "ops_10bb04a1@resolveiq.io",
+    "name": "DevOps Engineer",
+    "pwd_hash": "94f61d365a9b11239c3f164e135143ba72708917292b9c4d1c90352b8c501543",
+    "salt": "b6f781d9d9e99084c38f41a48d4adda7",
+    "created_at": "2026-09-12T18:15:16.594722+00:00"
+  },
+  {
+    "id": "usr-1091c937c4e5",
+    "email": "dup_e6891368@resolveiq.io",
+    "name": "Original User",
+    "pwd_hash": "fbd0f78007e20d6f1cd248b0f51cb9f003587eb65253079338cba818a73a38f5",
+    "salt": "192b4b661fd8817583c0a6218bf14d6c",
+    "created_at": "2026-09-12T18:15:17.735289+00:00"
+  },
+  {
+    "id": "usr-2243bdb8bd69",
+    "email": "login_d871dbd7@resolveiq.io",
+    "name": "Login Tester",
+    "pwd_hash": "4cf2048bc1e45fc9c700352208eebe983a64328907b8298747cc3506d8133198",
+    "salt": "0b41523bcd10e9435e8e57b294c5851c",
+    "created_at": "2026-09-12T18:15:19.203877+00:00"
+  },
+  {
+    "id": "usr-c4871a625755",
+    "email": "bad_pwd_f22fedbe@resolveiq.io",
+    "name": "Bad Pwd Tester",
+    "pwd_hash": "73f0d68b6db7b04f6129a4684ed3187a7602d1fb93fdcdbb927a383100d17522",
+    "salt": "af67e7746cc64c7790973360013e0a24",
+    "created_at": "2026-09-12T18:15:20.239547+00:00"
+  },
+  {
+    "id": "usr-8947e5a8aa9f",
+    "email": "session_f5b3784e@resolveiq.io",
+    "name": "Session User",
+    "pwd_hash": "94eac8b89fb327a70c8213027c38715bbac5d6f6a1bc27243823b694b5c6c935",
+    "salt": "5636e40cae1204dcc9c7524a2b3b0713",
+    "created_at": "2026-09-12T18:15:22.174312+00:00"
+  }
+]

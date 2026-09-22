@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "eff0c02d-418d-4736-b4b1-3309ecda4768",
+    "issue_key": "OPS-101",
+    "source": "jira",
+    "title": "Kubernetes worker node disk pressure",
+    "description": "Disk utilization reached 92%",
+    "status": "waiting_for_support",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": "High",
+    "severity": "High",
+    "reporter": "Ops Bot",
+    "assignee": "OnCall Engineer",
+    "raw_event_id": "284724bc-4c3a-4646-847a-14651b3fb93e",
+    "created_at": "2026-09-12T13:05:00.122382Z",
+    "updated_at": "2026-09-12T13:05:00.122382Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:05:00.122382+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:05:00.122382+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "08a5bf73-e88c-459c-9d7b-d17cc8ea3608",
+    "issue_key": "OPS-102",
+    "source": "jira",
+    "title": "SSL Certificate renewed",
+    "description": "Cert renewal completed by cert-manager",
+    "status": "resolved",
+    "jira_status": "Completed",
+    "resolution": "Done",
+    "workflow_status": "unprocessed",
+    "priority": "Low",
+    "severity": "Low",
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "7d3f9c50-c5ed-40b8-9393-f01d38c395c2",
+    "created_at": "2026-09-12T13:05:01.760987Z",
+    "updated_at": "2026-09-12T13:05:01.760987Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:05:01.760987+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:05:01.760987+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "494b719b-5373-48f4-ae4a-17441d721b59",
+    "issue_key": "PAY-505",
+    "source": "jira",
+    "title": "Payment webhook timeout",
+    "description": null,
+    "status": "open",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-12T13:05:04.700776Z",
+    "updated_at": "2026-09-12T13:05:04.700776Z",
+    "metadata": {}
+  },
+  {
+    "id": "3acbb279-5ad5-4927-8d19-ea8f328b6743",
+    "issue_key": "DYNAMIC-88",
+    "source": "jira",
+    "title": "Dynamic Test Incident",
+    "description": null,
+    "status": "in_progress",
+    "jira_status": "In Progress",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "dbe9f537-542a-4c08-91fa-528b26cd40bc",
+    "created_at": "2026-09-12T13:03:13.965019Z",
+    "updated_at": "2026-09-12T13:03:13.965019Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:03:13.965019+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:03:13.965019+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "8a119813-b530-4412-97f5-3bb9a76a1509",
+    "issue_key": "JIRA-101",
+    "source": "jira",
+    "title": "Redis Memory Out of Bounds",
+    "description": "Redis process crashed on cache node 3.",
+    "status": "open",
+    "jira_status": "Resolved",
+    "resolution": "Done",
+    "workflow_status": "completed",
+    "priority": null,
+    "severity": "Critical",
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-13T11:37:30.497645Z",
+    "updated_at": "2026-09-13T11:37:30.498107Z",
+    "metadata": {
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED"
+        },
+        "normalization": {
+          "status": "COMPLETED"
+        },
+        "classification": {
+          "status": "COMPLETED"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED"
+        },
+        "rca": {
+          "status": "COMPLETED"
+        },
+        "resolution": {
+          "status": "COMPLETED"
+        },
+        "awaiting_approval": {
+          "status": "APPROVED",
+          "reviewer": "Elena SRE",
+          "reason": "Approved for writeback",
+          "feedback": null,
+          "updated_at": "2026-09-13T11:37:30.506688+00:00"
+        },
+        "jira_update": {
+          "status": "COMPLETED",
+          "comment_posted": true,
+          "transition_applied": true,
+          "updated_at": "2026-09-13T11:37:33.405021+00:00"
+        },
+        "verification": {
+          "status": "COMPLETED",
+          "verified_jira_status": "Resolved",
+          "verified_resolution": "Done",
+          "updated_at": "2026-09-13T11:37:33.405021+00:00"
+        },
+        "completed": {
+          "status": "COMPLETED",
+          "message": "AI resolution approved, written back to Jira, and verified against Jira source of truth.",
+          "updated_at": "2026-09-13T11:37:33.405021+00:00"
+        }
+      },
+      "approval": {
+        "status": "approved",
+        "reviewer": "Elena SRE",
+        "timestamp": "2026-09-13T11:37:30.506688+00:00",
+        "reason": "Approved for writeback",
+        "feedback": null
+      },
+      "jira_update": {
+        "comment_posted": true,
+        "comment_id": "comment-555",
+        "comment_posted_at": "2026-09-13T11:37:33.405021+00:00",
+        "transition_id": "761",
+        "transition_name": "Resolve this issue",
+        "target_status": "Resolved",
+        "transition_applied_at": "2026-09-13T11:37:33.405021+00:00",
+        "transition_applied": true,
+        "status": "completed",
+        "message": "Resolution comment and transition applied to Jira.",
+        "verified": true,
+        "verified_jira_status": "Resolved",
+        "verified_resolution": "Done"
+      }
+    },
+    "current_stage": "completed",
+    "stage_status": "completed"
+  },
+  {
+    "id": "676b5af1-35a4-432b-8994-a3607132fbfc",
+    "issue_key": "API-100",
+    "source": "jira",
+    "title": "API Gateway 502 Bad Gateway",
+    "description": null,
+    "status": "open",
+    "jira_status": null,
+    "resolution": null,
+    "workflow_status": "must_revise",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-13T11:37:36.428475Z",
+    "updated_at": "2026-09-13T11:37:36.428475Z",
+    "metadata": {
+      "approval": {
+        "status": "rejected",
+        "reviewer": "Frank Ops",
+        "timestamp": "2026-09-13T11:37:36.428475+00:00",
+        "reason": "Needs further investigation",
+        "feedback": null
+      },
+      "jira_update": {
+        "status": "skipped",
+        "message": "Workflow paused for revision without Jira closure."
+      },
+      "stages": {
+        "jira_ingestion": {
+          "status": "NOT_STARTED"
+        },
+        "normalization": {
+          "status": "NOT_STARTED"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "MUST_REVISE",
+          "decision": "rejected",
+          "reviewer": "Frank Ops",
+          "reason": "Needs further investigation",
+          "feedback": null,
+          "updated_at": "2026-09-13T11:37:36.428475+00:00"
+        },
+        "jira_update": {
+          "status": "SKIPPED",
+          "message": "Writeback skipped because resolution was rejected and must be revised",
+          "updated_at": "2026-09-13T11:37:36.428475+00:00"
+        },
+        "verification": {
+          "status": "SKIPPED",
+          "message": "Verification skipped because incident requires revision",
+          "updated_at": "2026-09-13T11:37:36.428475+00:00"
+        },
+        "completed": {
+          "status": "NOT_STARTED",
+          "message": "Incident remains open and must be revised.",
+          "updated_at": "2026-09-13T11:37:36.428475+00:00"
+        }
+      }
+    },
+    "current_stage": "must_revise",
+    "stage_status": "must_revise"
+  },
+  {
+    "id": "c537b251-41af-4afc-bc20-98a2e06fec98",
+    "issue_key": "PIPE-88",
+    "source": "jira",
+    "title": "Database Connection Timeout",
+    "description": "Connection pool exhausted under heavy load.",
+    "status": "resolved",
+    "jira_status": "Closed",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": "High",
+    "severity": "High",
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "d4428e1e-15c6-4bc9-942f-623ba6c53788",
+    "created_at": "2026-09-12T13:04:35.276286Z",
+    "updated_at": "2026-09-12T13:04:35.276286Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:35.276286+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:35.276286+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "10085113-933d-44c0-acd7-238343d4b888",
+    "issue_key": "API-999",
+    "source": "jira",
+    "title": "Cache Miss Spike",
+    "description": null,
+    "status": "open",
+    "jira_status": "Open",
+    "resolution": null,
+    "workflow_status": "insufficient_evidence",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "83bbbe5f-6968-41f1-b677-1fc54f72f113",
+    "created_at": "2026-09-12T13:04:36.160261Z",
+    "updated_at": "2026-09-12T13:04:36.160261Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:36.160261+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:36.160261+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Performance",
+          "service": "Cache",
+          "updated_at": "2026-09-12T13:04:38.995910+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 5,
+          "updated_at": "2026-09-12T13:04:40.553034+00:00"
+        },
+        "rca": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "root_cause": null,
+          "reason": "Insufficient knowledge base evidence to identify root cause.",
+          "updated_at": "2026-09-12T13:04:41.328140+00:00"
+        },
+        "resolution": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "reason": "Resolution blocked: No verified runbook evidence available to formulate grounded recovery steps.",
+          "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+          "steps": [],
+          "risks": [
+            "Ungrounded resolution: Action without verified runbook risks operational disruption."
+          ],
+          "is_grounded": false,
+          "updated_at": "2026-09-12T13:04:41.328140+00:00"
+        },
+        "awaiting_approval": {
+          "status": "BLOCKED",
+          "reason": "Approval blocked: Incident resolution lacks supporting runbook evidence.",
+          "updated_at": "2026-09-12T13:04:41.328140+00:00"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed",
+      "classification": {
+        "category": "Performance",
+        "service": "Cache"
+      },
+      "evidence": [
+        {
+          "chunk_id": "mack_b_09025__chunk_0",
+          "text": "Problem:\nVPN client shows 'Could not negotiate IPsec security association' error.\n\nTroubleshooting Steps / Solution:\nCheck for firewall rules blocking UDP ports, ensure the VPN server's security policies are configured correctly, and verify encryption settings.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.114
+        },
+        {
+          "chunk_id": "mack_b_05060__chunk_0",
+          "text": "Problem:\nTeams meeting broadcast fails with 'Not enough bandwidth' error.\n\nTroubleshooting Steps / Solution:\nCheck network bandwidth, disable background apps, reduce resolution, and use wired connection.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1097
+        },
+        {
+          "chunk_id": "mack_b_03987__chunk_0",
+          "text": "Problem:\nTeams call disconnects with 4691 error code.\n\nTroubleshooting Steps / Solution:\nUpdate Teams client, check network bandwidth, disable QoS, and reconfigure firewall rules.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1064
+        },
+        {
+          "chunk_id": "mack_b_12381__chunk_0",
+          "text": "Problem:\nVPN client connection shows 'failed to negotiate IPsec security associations' error.\n\nTroubleshooting Steps / Solution:\nCheck the VPN server IPsec settings, ensure the client supports the required security parameters, and update the VPN client software.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1029
+        },
+        {
+          "chunk_id": "mack_b_13132__chunk_0",
+          "text": "Problem:\nVPN server shows error 0x8009201E on client connection.\n\nTroubleshooting Steps / Solution:\nRebuild VPN server configuration, update firewall rules, check Certificate Authority trust, and verify server logs.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.0983
+        }
+      ],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+        "steps": [],
+        "risks": [
+          "Ungrounded resolution: Action without verified runbook risks operational disruption."
+        ],
+        "evidence": [],
+        "is_grounded": false,
+        "grounding_type": "insufficient_evidence",
+        "evidence_sources": []
+      }
+    },
+    "current_stage": "resolution",
+    "stage_status": "insufficient_evidence"
+  },
+  {
+    "id": "bcb4aecc-2881-4f75-901f-8440210e589d",
+    "issue_key": "INC-202",
+    "source": "jira",
+    "title": "API Gateway Latency Spike",
+    "description": null,
+    "status": "open",
+    "jira_status": "Open",
+    "resolution": null,
+    "workflow_status": "insufficient_evidence",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "96253a84-68a8-4636-a458-336846a07f4a",
+    "created_at": "2026-09-12T13:04:45.008626Z",
+    "updated_at": "2026-09-12T13:04:45.008626Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:45.008626+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:45.008626+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Performance",
+          "service": "API Gateway",
+          "updated_at": "2026-09-12T13:04:47.626331+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 5,
+          "updated_at": "2026-09-12T13:04:47.673052+00:00"
+        },
+        "rca": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "root_cause": null,
+          "reason": "Insufficient knowledge base evidence to identify root cause.",
+          "updated_at": "2026-09-12T13:04:48.595579+00:00"
+        },
+        "resolution": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "reason": "Resolution blocked: No verified runbook evidence available to formulate grounded recovery steps.",
+          "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+          "steps": [],
+          "risks": [
+            "Ungrounded resolution: Action without verified runbook risks operational disruption."
+          ],
+          "is_grounded": false,
+          "updated_at": "2026-09-12T13:04:48.595579+00:00"
+        },
+        "awaiting_approval": {
+          "status": "BLOCKED",
+          "reason": "Approval blocked: Incident resolution lacks supporting runbook evidence.",
+          "updated_at": "2026-09-12T13:04:48.595579+00:00"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed",
+      "classification": {
+        "category": "Performance",
+        "service": "API Gateway"
+      },
+      "evidence": [
+        {
+          "chunk_id": "mack_b_00696__chunk_0",
+          "text": "Problem:\nLenovo Yoga laptop webcam disabled by system protection.\n\nTroubleshooting Steps / Solution:\nReinstall UVC drivers, disable Lenovo Guard profiles, and check for firmware updates.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1789
+        },
+        {
+          "chunk_id": "mack_b_08180__chunk_0",
+          "text": "Problem:\nLenovo laptop webcam disabled after BIOS update.\n\nTroubleshooting Steps / Solution:\nRoll back BIOS to previous version, disable Secure Camera in BIOS, and reinstall UVC drivers for the integrated camera.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1772
+        },
+        {
+          "chunk_id": "mack_b_18012__chunk_0",
+          "text": "Problem:\nLenovo T490 webcam disabled in BIOS after OS updates.\n\nTroubleshooting Steps / Solution:\nRe-flash UEFI with latest version, restore BIOS defaults, reinstall webcam drivers, and check DMI settings.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1753
+        },
+        {
+          "chunk_id": "mack_b_08220__chunk_0",
+          "text": "Problem:\nLenovo Yoga laptop webcam disabled after BIOS update.\n\nTroubleshooting Steps / Solution:\nRe-enable in Device Manager, update UVC driver, check BIOS settings, and restore factory image.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1736
+        },
+        {
+          "chunk_id": "mack_b_10863__chunk_0",
+          "text": "Problem:\nLenovo laptop webcam disabled after OS update.\n\nTroubleshooting Steps / Solution:\nRollback camera driver, reset privacy settings, and validate UVC permissions.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1732
+        }
+      ],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+        "steps": [],
+        "risks": [
+          "Ungrounded resolution: Action without verified runbook risks operational disruption."
+        ],
+        "evidence": [],
+        "is_grounded": false,
+        "grounding_type": "insufficient_evidence",
+        "evidence_sources": []
+      }
+    },
+    "current_stage": "resolution",
+    "stage_status": "insufficient_evidence"
+  },
+  {
+    "id": "2749a63c-c31e-4576-8cb7-347ebed325bc",
+    "issue_key": "INC-101",
+    "source": "jira",
+    "title": "Payment Service 500 Errors",
+    "description": null,
+    "status": "open",
+    "jira_status": "Open",
+    "resolution": null,
+    "workflow_status": "insufficient_evidence",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "dbe6e304-34ca-4509-abbe-d0fb2c3b4f49",
+    "created_at": "2026-09-12T13:04:51.412175Z",
+    "updated_at": "2026-09-12T13:04:51.412175Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:51.412175+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:51.412175+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Application",
+          "service": "Payment Service",
+          "updated_at": "2026-09-12T13:04:53.397218+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 5,
+          "updated_at": "2026-09-12T13:04:53.441253+00:00"
+        },
+        "rca": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "root_cause": null,
+          "reason": "Insufficient knowledge base evidence to identify root cause.",
+          "updated_at": "2026-09-12T13:04:54.430551+00:00"
+        },
+        "resolution": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "reason": "Resolution blocked: No verified runbook evidence available to formulate grounded recovery steps.",
+          "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+          "steps": [],
+          "risks": [
+            "Ungrounded resolution: Action without verified runbook risks operational disruption."
+          ],
+          "is_grounded": false,
+          "updated_at": "2026-09-12T13:04:54.430551+00:00"
+        },
+        "awaiting_approval": {
+          "status": "BLOCKED",
+          "reason": "Approval blocked: Incident resolution lacks supporting runbook evidence.",
+          "updated_at": "2026-09-12T13:04:54.430551+00:00"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed",
+      "classification": {
+        "category": "Application",
+        "service": "Payment Service"
+      },
+      "evidence": [
+        {
+          "chunk_id": "mack_c_00591__chunk_0",
+          "text": "Procedure: Fix missing display drivers on Ubuntu 20.04.\n\nSteps:\n1. Purge existing NVIDIA drivers. 2. Install mesa-utils. 3. Reinstall proprietary NVIDIA drivers. 4. Restart graphical interface.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1337
+        },
+        {
+          "chunk_id": "mack_b_10783__chunk_0",
+          "text": "Problem:\nWindows 10 update KB4520264 causes high GPU usage.\n\nTroubleshooting Steps / Solution:\nRun the DirectX Diagnostic Tool, update the graphics drivers, disable non-essential visual effects, and ensure the GPU is not overheating.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1322
+        },
+        {
+          "chunk_id": "mack_b_18067__chunk_0",
+          "text": "Problem:\nNVIDIA display driver installation error 0x80070643.\n\nTroubleshooting Steps / Solution:\nDownload driver directly from NVIDIA site, run DDU (Display Driver Uninstaller) before reinstall, and check for conflicting hardware.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1139
+        },
+        {
+          "chunk_id": "gitlab--2014-07-07--gitlab-com-database-outage-postmortem__chunk_0",
+          "text": "Title: GitLab.com Database Outage Postmortem (July 7-8, 2014)\nCompany: GitLab\nPublication Date: 2014-07-07\n\n[Summary]\nWelcome dear people, sorry about the downtime, we\u2019re live editing this postmortem, enjoy the show, WE ARE DONE FOR TODAY AND ALREADY IMPLEMENTED SOME OUTCOMES, feel free to leave comments here or on HackerNews (since there are too many people viewing this doc after it was nr. 1 on HN) #openops\n\nPresentation from yesterdays Utrechtrb meetuphttps://docs.google.com/presentation/d/1gIzmp-d5X86jJMQz7Ixs_dzyhC1OTVK0w3uV_Rtc_Us/edit#slide=id.p",
+          "source": "postmortem_io",
+          "document_type": "postmortems",
+          "score": 0.1135
+        },
+        {
+          "chunk_id": "mack_c_00904__chunk_0",
+          "text": "Procedure: Clear browser cache for Chrome.\n\nSteps:\n1. Open Chrome flags and revert to default settings. 2. Manually delete cache files in user data directory. 3. Use Chrome cleanup in settings. 4. Restart the browser to apply changes.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1099
+        }
+      ],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+        "steps": [],
+        "risks": [
+          "Ungrounded resolution: Action without verified runbook risks operational disruption."
+        ],
+        "evidence": [],
+        "is_grounded": false,
+        "grounding_type": "insufficient_evidence",
+        "evidence_sources": []
+      }
+    },
+    "current_stage": "resolution",
+    "stage_status": "insufficient_evidence"
+  },
+  {
+    "id": "bd3d46b8-4547-4d9b-a83e-afe392bcb883",
+    "issue_key": "INC-505",
+    "source": "jira",
+    "title": "Test Incident Webhook",
+    "description": null,
+    "status": "open",
+    "jira_status": "Open",
+    "resolution": null,
+    "workflow_status": "insufficient_evidence",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "9fde1e32-274e-43e3-8252-87346fbf255f",
+    "created_at": "2026-09-12T13:04:54.955387Z",
+    "updated_at": "2026-09-12T13:04:54.955387Z",
+    "metadata": {
+      "project": null,
+      "issue_type": null,
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:54.955387+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T13:04:54.955387+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Application",
+          "service": "Webhook",
+          "updated_at": "2026-09-12T13:04:57.075693+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 5,
+          "updated_at": "2026-09-12T13:04:57.123155+00:00"
+        },
+        "rca": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "root_cause": null,
+          "reason": "Insufficient knowledge base evidence to identify root cause.",
+          "updated_at": "2026-09-12T13:04:58.377186+00:00"
+        },
+        "resolution": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "reason": "Resolution blocked: No verified runbook evidence available to formulate grounded recovery steps.",
+          "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+          "steps": [],
+          "risks": [
+            "Ungrounded resolution: Action without verified runbook risks operational disruption."
+          ],
+          "is_grounded": false,
+          "updated_at": "2026-09-12T13:04:58.377186+00:00"
+        },
+        "awaiting_approval": {
+          "status": "BLOCKED",
+          "reason": "Approval blocked: Incident resolution lacks supporting runbook evidence.",
+          "updated_at": "2026-09-12T13:04:58.377186+00:00"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed",
+      "classification": {
+        "category": "Application",
+        "service": "Webhook"
+      },
+      "evidence": [
+        {
+          "chunk_id": "mack_b_03934__chunk_0",
+          "text": "Problem:\nDell XPS webcam feed shows double images (ghosting effect).\n\nTroubleshooting Steps / Solution:\nClean webcam lens, update webcam driver, disable image enhancement in camera software, and test with different applications.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.2574
+        },
+        {
+          "chunk_id": "mack_b_15590__chunk_0",
+          "text": "Problem:\nHP Spectre display brightness doesn't change.\n\nTroubleshooting Steps / Solution:\nUpdate graphics drivers, reset brightness settings via Registry Editor, check for power profile settings, and test with external monitor brightness controls.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.2554
+        },
+        {
+          "chunk_id": "mack_b_04092__chunk_0",
+          "text": "Problem:\nDell monitor contrast ratio changes with ambient light automatically.\n\nTroubleshooting Steps / Solution:\nUpdate firmware, disable auto-adjust, calibrate manually, and check for sensor issues.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.17
+        },
+        {
+          "chunk_id": "mack_b_02369__chunk_0",
+          "text": "Problem:\nDell XPS monitor fan noise increases during gaming\n\nTroubleshooting Steps / Solution:\nCheck for dust buildup in fan, increase system cooling, update graphics drivers, monitor temperatures to prevent overheating.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1682
+        },
+        {
+          "chunk_id": "mack_b_13848__chunk_0",
+          "text": "Problem:\nDell monitor contrast settings are reset to default after power cycle.\n\nTroubleshooting Steps / Solution:\nUse the monitor OSD menu to lock settings, update the monitor firmware, check for power supply issues, and ensure the monitor is not defective.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1665
+        }
+      ],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+        "steps": [],
+        "risks": [
+          "Ungrounded resolution: Action without verified runbook risks operational disruption."
+        ],
+        "evidence": [],
+        "is_grounded": false,
+        "grounding_type": "insufficient_evidence",
+        "evidence_sources": []
+      }
+    },
+    "current_stage": "resolution",
+    "stage_status": "insufficient_evidence"
+  },
+  {
+    "id": "9eb57e65-3a2e-4840-b3b4-ecd3bc631ea9",
+    "issue_key": "RESIQ-2",
+    "source": "jira",
+    "title": "vpn failed to start",
+    "description": "vpn connections are distrupted",
+    "status": "waiting_for_support",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "insufficient_evidence",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "usravya1@gmail.com",
+    "assignee": "usravya1@gmail.com",
+    "raw_event_id": "ac1772b1-d39c-4884-9ca7-aeee3b963da6",
+    "created_at": "2026-09-08T14:38:03.735000+05:30",
+    "updated_at": "2026-09-10T21:18:07.899000+05:30",
+    "metadata": {
+      "project": "RESIQ",
+      "issue_type": "[System] Service request",
+      "labels": [],
+      "classification": {
+        "category": "Network",
+        "service": "VPN"
+      },
+      "evidence": [],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+        "steps": [],
+        "risks": [
+          "Ungrounded resolution: Action without verified runbook risks operational disruption."
+        ],
+        "evidence": [],
+        "is_grounded": false,
+        "grounding_type": "insufficient_evidence",
+        "evidence_sources": []
+      },
+      "approval": {
+        "status": "pending"
+      },
+      "jira_update": {
+        "status": "pending"
+      },
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:10.308842+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:10.308842+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "e0b77dd5-233e-4cbd-a449-82398e585c60",
+    "issue_key": "RESIQ-1",
+    "source": "jira",
+    "title": "the user is not able to loggin",
+    "description": "the portal is showing 404 error when trying to login",
+    "status": "resolved",
+    "jira_status": "Completed",
+    "resolution": "Done",
+    "workflow_status": "unprocessed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "usravya1@gmail.com",
+    "assignee": "usravya1@gmail.com",
+    "raw_event_id": "7a089694-951d-4104-aca3-7374b101899b",
+    "created_at": "2026-08-18T12:34:18.901000+05:30",
+    "updated_at": "2026-09-07T18:27:38.006000+05:30",
+    "metadata": {
+      "project": "RESIQ",
+      "issue_type": "[System] Incident",
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:11.816201+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:11.816201+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "49676cd1-6c77-4e4f-9e75-d9185b229eb6",
+    "issue_key": "DEMO-6",
+    "source": "jira",
+    "title": "The navigation light on my spaceship is flashing",
+    "description": "Hi, I was just out of the solar system and noticed the light for my spaceship's navigation system flashing. I only got it checked last month and they told me there was nothing wrong with it. I took a wrong turn past this solar system's sun and won't be at a Space Station for a few more days at least. Can you patch me through the latest update file so I can see if that fixes the problem?",
+    "status": "resolved",
+    "jira_status": "Resolved",
+    "resolution": null,
+    "workflow_status": "completed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "oliver@atlassian-demo.invalid",
+    "assignee": null,
+    "raw_event_id": "f9b1e380-c4b2-40c8-b0cb-993b31e728cf",
+    "created_at": "2026-08-18T12:16:00.659000+05:30",
+    "updated_at": "2026-09-12T12:20:34.230000+05:30",
+    "metadata": {
+      "project": "DEMO",
+      "issue_type": "Service Request",
+      "labels": [],
+      "classification": {
+        "category": "Hardware",
+        "service": "Navigation System"
+      },
+      "evidence": [],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Perform systematic diagnostics and apply the latest navigation system firmware update after confirming system readiness.",
+        "steps": [
+          "Step 1: Verify current navigation firmware version via the ship's console.",
+          "Step 2: Back up navigation configuration and critical flight data to secure storage.",
+          "Step 3: Download the latest navigation firmware update from the authorized repository using a secure link.",
+          "Step 4: Schedule a maintenance window and ensure the ship is on a stable trajectory before initiating the update.",
+          "Step 5: Apply the firmware update following the vendor's runbook, monitoring for any error messages.",
+          "Step 6: Run a full navigation system self\u2011test and confirm the light status is normal.",
+          "Step 7: If the issue persists, isolate the navigation module and perform hardware checks (power supply, connector integrity).",
+          "Step 8: Document findings and contact the spacecraft support team with logs if the problem remains unresolved."
+        ],
+        "risks": [
+          "Applying the firmware update may require a system reboot, temporarily disabling navigation capabilities.",
+          "Incorrect backup or incomplete update could corrupt navigation settings, leading to loss of waypoint data.",
+          "Performing hardware checks in a microgravity environment carries a risk of component damage if not handled with proper tools."
+        ],
+        "evidence": []
+      },
+      "approval": {
+        "status": "approved",
+        "reviewer": "Sravya Ullamgunta (Live Verification)",
+        "timestamp": "2026-09-12T06:53:12.307809+00:00",
+        "reason": "Verified navigation light recovery steps against diagnostic runbook.",
+        "feedback": null
+      },
+      "jira_update": {
+        "status": "completed",
+        "comment_posted": true,
+        "comment_id": "10104",
+        "comment_posted_at": "2026-09-12T06:50:33.251188+00:00",
+        "transition_id": "761",
+        "transition_name": "Resolve this issue",
+        "target_status": "Resolved",
+        "transition_applied_at": "2026-09-12T06:50:34.908626+00:00",
+        "transition_applied": true,
+        "message": "Resolution comment and transition applied to Jira.",
+        "verified": true,
+        "verified_jira_status": "Resolved",
+        "verified_resolution": null
+      },
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:13.940277+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:13.940277+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "795178ab-6320-4193-b241-2da36445d6f7",
+    "issue_key": "DEMO-5",
+    "source": "jira",
+    "title": "I need help connecting my laptop to the level 3 printer",
+    "description": "I have been trying to print a document since 8am this morning but my laptop won't connect with the printer. I've restarted my laptop but it's still not working. If anyone has time to look soon, I'll be at my desk for most of the day.",
+    "status": "resolved",
+    "jira_status": "Resolved",
+    "resolution": "Done",
+    "workflow_status": "unprocessed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "example@atlassian-demo.invalid",
+    "assignee": "usravya1@gmail.com",
+    "raw_event_id": "37903021-89ac-424b-bbb5-4dc98b9a579d",
+    "created_at": "2026-08-18T12:15:57.451000+05:30",
+    "updated_at": "2026-08-18T12:15:59.393000+05:30",
+    "metadata": {
+      "project": "DEMO",
+      "issue_type": "Service Request",
+      "labels": [
+        "demo-desk"
+      ],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:15.834842+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:15.834842+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "b272d88f-44d6-48e1-84ba-7049daf81df6",
+    "issue_key": "DEMO-4",
+    "source": "jira",
+    "title": "Collecting custom request details",
+    "description": "Define and organize incoming requests using \nrequest types\n. Capture and track relevant details upfront by customizing the \nrequest types\n you want to show up on the help center. You can also add \ninternal fields\n to track details that you don't want your customers to see.\nTry it out\nWe've given you some request types to try. Visit \nChannels\n (you may need to click \nBack to space\n to get out of your queues menu) to raise a request via your service space's Help Center and see them in action.",
+    "status": "waiting_for_approval",
+    "jira_status": "Waiting for approval",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": "High",
+    "severity": "High",
+    "reporter": "example@atlassian-demo.invalid",
+    "assignee": null,
+    "raw_event_id": "96e845fe-ad2e-4005-96d3-36394edd7278",
+    "created_at": "2026-08-18T12:15:56.364000+05:30",
+    "updated_at": "2026-08-18T12:15:57.078000+05:30",
+    "metadata": {
+      "project": "DEMO",
+      "issue_type": "Service Request with Approvals",
+      "labels": [
+        "demo-desk"
+      ],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:17.603671+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:17.603671+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "f4539f37-e049-48e4-8594-0f6d5120e01a",
+    "issue_key": "DEMO-3",
+    "source": "jira",
+    "title": "Agents & customers",
+    "description": "Agents\n are the members of your team that answer and resolve requests from your \nCustomers\n. In Jira Service Management, you only pay for agents and not the customers who raise requests. In other words, you can support as many customers as you need without paying any extra.\nReady to invite your team? Look for \nInvite team\n on your space's sidebar (you may need to select \nBack to space\n to get out of your queues menu) to invite your team as agents.",
+    "status": "waiting_for_support",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "example@atlassian-demo.invalid",
+    "assignee": null,
+    "raw_event_id": "937e3cbf-6ab3-4c1d-9332-e68161df5b85",
+    "created_at": "2026-08-18T12:15:55.113000+05:30",
+    "updated_at": "2026-08-18T12:15:55.944000+05:30",
+    "metadata": {
+      "project": "DEMO",
+      "issue_type": "IT Help",
+      "labels": [
+        "demo-desk"
+      ],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:19.128569+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:19.128569+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "bb859cb4-e9fa-4f6d-bffa-b0cf2abda480",
+    "issue_key": "DEMO-2",
+    "source": "jira",
+    "title": "Capturing customer email requests",
+    "description": "The easiest way for your customer's to request help is by sending an email to your service space. When emails get sent to your space, they land in your queue as a request (just like this one).\nTry it out\nEmail a request to \nDemo service space's\n support email address ( \ndemo@usravya.atlassian.net\n ) to see how it looks for your customers and agents.",
+    "status": "waiting_for_support",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "example@atlassian-demo.invalid",
+    "assignee": null,
+    "raw_event_id": "1eff1d68-bce2-42eb-b9fa-a431fe3839fb",
+    "created_at": "2026-08-18T12:15:53.922000+05:30",
+    "updated_at": "2026-08-18T12:15:54.726000+05:30",
+    "metadata": {
+      "project": "DEMO",
+      "issue_type": "Service Request",
+      "labels": [
+        "demo-desk"
+      ],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:20.938147+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:20.938147+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "d67b0afb-ad01-4c38-ab6e-b85841d64fe1",
+    "issue_key": "DEMO-1",
+    "source": "jira",
+    "title": "What is a request?",
+    "description": "Requests are like emails from your customers asking for help. Like email, you can respond to the reporter and add attachments. Unlike email, you can set all kinds of useful information, such as labels, priority and a status showing where the request is up to.\nTry it out\nWhen you've finished exploring this request, \nupdate the status\n to resolve it and let the reporter know it's done.",
+    "status": "waiting_for_support",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "unprocessed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "example@atlassian-demo.invalid",
+    "assignee": "usravya1@gmail.com",
+    "raw_event_id": "8f148960-f041-48de-aef7-801ab0e4ce3c",
+    "created_at": "2026-08-18T12:15:51.551000+05:30",
+    "updated_at": "2026-08-18T12:15:53.498000+05:30",
+    "metadata": {
+      "project": "DEMO",
+      "issue_type": "Service Request",
+      "labels": [
+        "demo-desk"
+      ],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:22.576145+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:22.576145+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "resolution": {
+          "status": "NOT_STARTED"
+        },
+        "awaiting_approval": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed"
+    }
+  },
+  {
+    "id": "e3848d0c-fa44-479b-abe5-4c5ed4b1943f",
+    "issue_key": "TEST-101",
+    "source": "jira",
+    "title": "Payment gateway connection timeout",
+    "description": "Checkout service failing with timeouts to payment gateway.",
+    "status": "open",
+    "jira_status": "Waiting for support",
+    "resolution": null,
+    "workflow_status": "failed",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-12T13:03:24.428626Z",
+    "updated_at": "2026-09-12T13:03:24.428626Z",
+    "metadata": {
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED"
+        },
+        "normalization": {
+          "status": "COMPLETED"
+        },
+        "classification": {
+          "status": "COMPLETED"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED"
+        },
+        "rca": {
+          "status": "COMPLETED"
+        },
+        "resolution": {
+          "status": "COMPLETED"
+        },
+        "awaiting_approval": {
+          "status": "APPROVED",
+          "reviewer": "Operator",
+          "reason": "Approved",
+          "feedback": null,
+          "updated_at": "2026-09-12T13:03:24.429255+00:00"
+        },
+        "jira_update": {
+          "status": "FAILED",
+          "error": "Failed to transition Jira issue: No appropriate resolution transition found for issue 'TEST-101'. Available transitions: []",
+          "updated_at": "2026-09-12T13:03:24.998914+00:00"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "FAILED"
+        }
+      },
+      "classification": {
+        "category": "Payment",
+        "service": "Gateway"
+      },
+      "rca": {
+        "root_cause": "Connection pool exhaustion",
+        "status": "identified",
+        "evidence": [
+          {
+            "chunk_id": "chk-1",
+            "reason": "Pool at capacity"
+          }
+        ]
+      },
+      "resolution": {
+        "recommendation": "Scale connection pool max_size from 50 to 200.",
+        "steps": [
+          "1. Edit config",
+          "2. Deploy patch"
+        ],
+        "risks": [
+          "Higher memory usage"
+        ],
+        "evidence": [
+          "chk-1"
+        ],
+        "is_grounded": true,
+        "grounding_type": "rag_grounded",
+        "evidence_sources": []
+      },
+      "evidence": [
+        {
+          "chunk_id": "chk-1",
+          "text": "Increase pool size",
+          "source": "runbook.md",
+          "document_type": null,
+          "score": 0.9
+        }
+      ],
+      "approval": {
+        "status": "approved",
+        "reviewer": "Operator",
+        "timestamp": "2026-09-12T13:03:24.429255+00:00",
+        "reason": "Approved",
+        "feedback": null
+      },
+      "jira_update": {
+        "comment_posted": true,
+        "comment_id": "comment-ok",
+        "comment_posted_at": "2026-09-12T13:03:24.998914+00:00",
+        "status": "failed",
+        "error": "No appropriate resolution transition found for issue 'TEST-101'. Available transitions: []"
+      }
+    },
+    "current_stage": "jira_update",
+    "stage_status": "failed"
+  },
+  {
+    "id": "3ecb60b8-064a-440b-9955-7b3fc666f28b",
+    "issue_key": "E2E-100",
+    "source": "jira",
+    "title": "Payment gateway connection timeout",
+    "description": "Checkout service failing with timeouts to payment gateway.",
+    "status": "open",
+    "jira_status": "Resolved",
+    "resolution": "Fixed",
+    "workflow_status": "completed",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-12T13:03:23.173700Z",
+    "updated_at": "2026-09-12T13:03:23.173700Z",
+    "metadata": {
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED"
+        },
+        "normalization": {
+          "status": "COMPLETED"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Network",
+          "service": "Firewall",
+          "updated_at": "2026-09-12T13:03:23.174340+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 1,
+          "updated_at": "2026-09-12T13:03:23.174340+00:00"
+        },
+        "rca": {
+          "status": "COMPLETED",
+          "root_cause": "Blocked port 443",
+          "updated_at": "2026-09-12T13:03:23.174340+00:00"
+        },
+        "resolution": {
+          "status": "COMPLETED",
+          "recommendation": "Open egress 443",
+          "steps": [
+            "Allow port"
+          ],
+          "risks": [],
+          "is_grounded": true,
+          "evidence_sources": [
+            {
+              "chunk_id": "c1",
+              "source": "rules.txt",
+              "document_type": null,
+              "score": 0.95,
+              "snippet": "Firewall rule"
+            }
+          ],
+          "updated_at": "2026-09-12T13:03:23.177043+00:00"
+        },
+        "awaiting_approval": {
+          "status": "APPROVED",
+          "reviewer": "Principal SRE",
+          "reason": null,
+          "feedback": null,
+          "updated_at": "2026-09-12T13:03:23.181033+00:00"
+        },
+        "jira_update": {
+          "status": "COMPLETED",
+          "comment_posted": true,
+          "transition_applied": true,
+          "updated_at": "2026-09-12T13:03:23.791667+00:00"
+        },
+        "verification": {
+          "status": "COMPLETED",
+          "verified_jira_status": "Resolved",
+          "verified_resolution": "Fixed",
+          "updated_at": "2026-09-12T13:03:23.791667+00:00"
+        },
+        "completed": {
+          "status": "COMPLETED",
+          "message": "AI resolution approved, written back to Jira, and verified against Jira source of truth.",
+          "updated_at": "2026-09-12T13:03:23.791667+00:00"
+        }
+      },
+      "classification": {
+        "category": "Network",
+        "service": "Firewall"
+      },
+      "evidence": [
+        {
+          "chunk_id": "c1",
+          "text": "Firewall rule",
+          "source": "rules.txt",
+          "document_type": null,
+          "score": 0.95
+        }
+      ],
+      "rca": {
+        "root_cause": "Blocked port 443",
+        "status": "identified",
+        "evidence": [
+          {
+            "chunk_id": "c1",
+            "reason": "Rule 12"
+          }
+        ]
+      },
+      "resolution": {
+        "recommendation": "Open egress 443",
+        "steps": [
+          "Allow port"
+        ],
+        "risks": [],
+        "evidence": [
+          "c1"
+        ],
+        "is_grounded": true,
+        "grounding_type": "rag_grounded",
+        "evidence_sources": [
+          {
+            "chunk_id": "c1",
+            "source": "rules.txt",
+            "document_type": null,
+            "score": 0.95,
+            "snippet": "Firewall rule"
+          }
+        ]
+      },
+      "approval": {
+        "status": "approved",
+        "reviewer": "Principal SRE",
+        "timestamp": "2026-09-12T13:03:23.181033+00:00",
+        "reason": null,
+        "feedback": null
+      },
+      "jira_update": {
+        "status": "completed",
+        "comment_posted": true,
+        "comment_id": "comm-e2e",
+        "comment_posted_at": "2026-09-12T13:03:23.791667+00:00",
+        "transition_id": "761",
+        "transition_name": "Resolve this issue",
+        "target_status": "Resolved",
+        "transition_applied_at": "2026-09-12T13:03:23.791667+00:00",
+        "transition_applied": true,
+        "message": "Resolution comment and transition applied to Jira.",
+        "verified": true,
+        "verified_jira_status": "Resolved",
+        "verified_resolution": "Fixed"
+      }
+    },
+    "current_stage": "completed",
+    "stage_status": "completed"
+  },
+  {
+    "id": "5834afad-048d-4cf8-99ea-105af0ffd4a8",
+    "issue_key": "TEST-WEBHOOK-1",
+    "source": "jira",
+    "title": "Test incident triggered via webhook",
+    "description": "Database replication delay is exceeding 500ms",
+    "status": "open",
+    "jira_status": "To Do",
+    "resolution": null,
+    "workflow_status": "insufficient_evidence",
+    "priority": "High",
+    "severity": "High",
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": "1156e7ad-7ef0-4f8b-8473-a40449c53f29",
+    "created_at": "2026-09-12T14:04:09.507179Z",
+    "updated_at": "2026-09-12T14:04:09.507179Z",
+    "metadata": {
+      "project": null,
+      "issue_type": "Incident",
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T14:04:09.507179+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-12T14:04:09.507179+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Database",
+          "service": "Replication",
+          "updated_at": "2026-09-12T14:04:12.308422+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 5,
+          "updated_at": "2026-09-12T14:04:12.347262+00:00"
+        },
+        "rca": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "root_cause": null,
+          "reason": "Insufficient knowledge base evidence to identify root cause.",
+          "updated_at": "2026-09-12T14:04:13.247369+00:00"
+        },
+        "resolution": {
+          "status": "INSUFFICIENT_EVIDENCE",
+          "reason": "Resolution blocked: No verified runbook evidence available to formulate grounded recovery steps.",
+          "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+          "steps": [],
+          "risks": [
+            "Ungrounded resolution: Action without verified runbook risks operational disruption."
+          ],
+          "is_grounded": false,
+          "updated_at": "2026-09-12T14:04:13.247369+00:00"
+        },
+        "awaiting_approval": {
+          "status": "BLOCKED",
+          "reason": "Approval blocked: Incident resolution lacks supporting runbook evidence.",
+          "updated_at": "2026-09-12T14:04:13.247369+00:00"
+        },
+        "jira_update": {
+          "status": "NOT_STARTED"
+        },
+        "verification": {
+          "status": "NOT_STARTED"
+        },
+        "completed": {
+          "status": "NOT_STARTED"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed",
+      "classification": {
+        "category": "Database",
+        "service": "Replication"
+      },
+      "evidence": [
+        {
+          "chunk_id": "mack_b_03493__chunk_0",
+          "text": "Problem:\nWindows 11 TPM 2.0 not detected during BitLocker setup.\n\nTroubleshooting Steps / Solution:\nEnable TPM in BIOS, install TPM 2.0 components, verify TPM owner password, and run Group Policy Editor to configure.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1779
+        },
+        {
+          "chunk_id": "mack_b_13708__chunk_0",
+          "text": "Problem:\nWindows 11 task scheduler (Task Scheduler) won't show completed tasks.\n\nTroubleshooting Steps / Solution:\nRun 'lodctr /r' to reset log counters, repair the Task Scheduler service, and check for file system corruption using 'chkdsk /f'.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1683
+        },
+        {
+          "chunk_id": "mack_b_16155__chunk_0",
+          "text": "Problem:\nWindows 11 TPM 2.0 not recognized during setup.\n\nTroubleshooting Steps / Solution:\nEnsure motherboard BIOS supports TPM, check physical TPM chip presence, disable Secure Boot temporarily, and use TPM 2.0 Check tool.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1662
+        },
+        {
+          "chunk_id": "mack_b_09357__chunk_0",
+          "text": "Problem:\nWindows 10/11 OOBE stuck on 'Activating your PC' screen.\n\nTroubleshooting Steps / Solution:\nInterrupt OOBE, boot into Safe Mode, disable BitLocker if enabled, check for pending hardware changes, and manually activate Windows using 'slmgr.vbs /ato'.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1648
+        },
+        {
+          "chunk_id": "mack_b_13906__chunk_0",
+          "text": "Problem:\nWindows 11 TPM 2.0 not detected during setup.\n\nTroubleshooting Steps / Solution:\nUse Microsoft's TPM troubleshooter, ensure BIOS TPM enabled, check TPM version, and run cryptoaptest command.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.1632
+        }
+      ],
+      "rca": {
+        "root_cause": null,
+        "status": "insufficient_evidence",
+        "evidence": []
+      },
+      "resolution": {
+        "recommendation": "Resolution blocked: No verified knowledge base runbook or postmortem evidence found for this incident.",
+        "steps": [],
+        "risks": [
+          "Ungrounded resolution: Action without verified runbook risks operational disruption."
+        ],
+        "evidence": [],
+        "is_grounded": false,
+        "grounding_type": "insufficient_evidence",
+        "evidence_sources": []
+      }
+    },
+    "current_stage": "resolution",
+    "stage_status": "insufficient_evidence"
+  },
+  {
+    "id": "RESIQ-TEST-REVISE",
+    "issue_key": "RESIQ-TEST-REVISE",
+    "source": "jira",
+    "title": "High Memory on Redis Node",
+    "description": null,
+    "status": "open",
+    "jira_status": null,
+    "resolution": null,
+    "workflow_status": "rejected",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-12T18:17:04.083191Z",
+    "updated_at": "2026-09-12T18:17:04.083191Z",
+    "metadata": {
+      "stages": {
+        "awaiting_approval": {
+          "status": "REJECTED",
+          "reviewer": "Senior SRE",
+          "reason": "Requires deeper memory profile analysis first",
+          "feedback": "Please inspect cache eviction logs before flushing.",
+          "updated_at": "2026-09-12T18:17:04.084554+00:00"
+        },
+        "resolution": {
+          "status": "COMPLETED",
+          "is_grounded": true
+        },
+        "completed": {
+          "status": "REJECTED",
+          "message": "Workflow terminated in REJECTED state",
+          "updated_at": "2026-09-12T18:17:04.084554+00:00"
+        },
+        "jira_ingestion": {
+          "status": "NOT_STARTED"
+        },
+        "normalization": {
+          "status": "NOT_STARTED"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "SKIPPED",
+          "message": "Writeback skipped because resolution was rejected",
+          "updated_at": "2026-09-12T18:17:04.084554+00:00"
+        },
+        "verification": {
+          "status": "SKIPPED",
+          "message": "Verification skipped because resolution was rejected",
+          "updated_at": "2026-09-12T18:17:04.084554+00:00"
+        }
+      },
+      "approval": {
+        "status": "rejected",
+        "reviewer": "Senior SRE",
+        "timestamp": "2026-09-12T18:17:04.084554+00:00",
+        "reason": "Requires deeper memory profile analysis first",
+        "feedback": "Please inspect cache eviction logs before flushing."
+      },
+      "jira_update": {
+        "status": "skipped",
+        "message": "Workflow ended without Jira update."
+      }
+    },
+    "current_stage": "completed",
+    "stage_status": "rejected"
+  },
+  {
+    "id": "RESIQ-TEST-REVISE-2",
+    "issue_key": "RESIQ-TEST-REVISE-2",
+    "source": "jira",
+    "title": "High Memory on Redis Node",
+    "description": null,
+    "status": "open",
+    "jira_status": null,
+    "resolution": null,
+    "workflow_status": "must_revise",
+    "priority": null,
+    "severity": null,
+    "reporter": null,
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-12T18:18:14.435535Z",
+    "updated_at": "2026-09-12T18:18:14.435535Z",
+    "metadata": {
+      "stages": {
+        "awaiting_approval": {
+          "status": "MUST_REVISE",
+          "decision": "rejected",
+          "reviewer": "Senior SRE",
+          "reason": "Requires deeper memory profile analysis first",
+          "feedback": "Please inspect cache eviction logs before flushing.",
+          "updated_at": "2026-09-12T18:18:14.435921+00:00"
+        },
+        "resolution": {
+          "status": "COMPLETED",
+          "is_grounded": true
+        },
+        "completed": {
+          "status": "NOT_STARTED",
+          "message": "Incident remains open and must be revised.",
+          "updated_at": "2026-09-12T18:18:14.435921+00:00"
+        },
+        "jira_ingestion": {
+          "status": "NOT_STARTED"
+        },
+        "normalization": {
+          "status": "NOT_STARTED"
+        },
+        "classification": {
+          "status": "NOT_STARTED"
+        },
+        "rag_retrieval": {
+          "status": "NOT_STARTED"
+        },
+        "rca": {
+          "status": "NOT_STARTED"
+        },
+        "jira_update": {
+          "status": "SKIPPED",
+          "message": "Writeback skipped because resolution was rejected and must be revised",
+          "updated_at": "2026-09-12T18:18:14.435921+00:00"
+        },
+        "verification": {
+          "status": "SKIPPED",
+          "message": "Verification skipped because incident requires revision",
+          "updated_at": "2026-09-12T18:18:14.435921+00:00"
+        }
+      },
+      "approval": {
+        "status": "rejected",
+        "reviewer": "Senior SRE",
+        "timestamp": "2026-09-12T18:18:14.435921+00:00",
+        "reason": "Requires deeper memory profile analysis first",
+        "feedback": "Please inspect cache eviction logs before flushing."
+      },
+      "jira_update": {
+        "status": "skipped",
+        "message": "Workflow paused for revision without Jira closure."
+      }
+    },
+    "current_stage": "must_revise",
+    "stage_status": "must_revise"
+  },
+  {
+    "id": "4e825a47-b136-4fea-8fa6-230843028d54",
+    "issue_key": "RESIQ-3",
+    "source": "jira",
+    "title": "Production service unavailable after TLS certificate expiry",
+    "description": null,
+    "status": "waiting_for_support",
+    "jira_status": "Resolved",
+    "resolution": null,
+    "workflow_status": "completed",
+    "priority": "Medium",
+    "severity": "Medium",
+    "reporter": "usravya1@gmail.com",
+    "assignee": null,
+    "raw_event_id": null,
+    "created_at": "2026-09-13T16:35:31.886000+05:30",
+    "updated_at": "2026-09-13T11:40:33.290000Z",
+    "metadata": {
+      "project": "RESIQ",
+      "issue_type": "[System] Service request",
+      "labels": [],
+      "stages": {
+        "jira_ingestion": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:08.392881+00:00",
+          "message": "Issue ingested from Jira API"
+        },
+        "normalization": {
+          "status": "COMPLETED",
+          "updated_at": "2026-09-13T11:06:08.392881+00:00",
+          "message": "Normalized to CanonicalIncident"
+        },
+        "classification": {
+          "status": "COMPLETED",
+          "category": "Security",
+          "service": "TLS Certificate",
+          "updated_at": "2026-09-13T11:07:35.722616+00:00"
+        },
+        "rag_retrieval": {
+          "status": "COMPLETED",
+          "chunks_retrieved": 5,
+          "updated_at": "2026-09-13T11:08:16.311706+00:00"
+        },
+        "rca": {
+          "status": "COMPLETED",
+          "root_cause": "Service outage was caused by an expired TLS certificate (self\u2011signed test certificate) that could not be renewed because the CA key was lost, leading to failed TLS validation and cluster degradation.",
+          "updated_at": "2026-09-13T11:08:18.356078+00:00"
+        },
+        "resolution": {
+          "status": "COMPLETED",
+          "recommendation": "Replace the expired self\u2011signed TLS certificate with a newly generated production\u2011grade certificate signed by a valid CA and roll it out across all cluster nodes.",
+          "steps": [
+            "Step 1: Generate a new private CA key and root certificate (or obtain a certificate from a trusted external CA).",
+            "Step 2: Issue new server and client certificates for each service node, signed by the new CA.",
+            "Step 3: Distribute the new CA bundle and node certificates to all servers and clients, updating configuration files to point to the new cert paths.",
+            "Step 4: Perform a rolling restart of cluster nodes, replacing certificates one node at a time to maintain quorum.",
+            "Step 5: Verify TLS handshake success and cluster health after each node restart using health\u2011check endpoints.",
+            "Step 6: Enable automated certificate expiry monitoring and alerting (e.g., Prometheus alerts, monitoring checks).",
+            "Step 7: Document the new certificate management process, including rotation schedule and backup of CA keys."
+          ],
+          "risks": [
+            "Operational risk: Rolling restart may temporarily reduce cluster quorum, leading to degraded service if not sequenced correctly.",
+            "Operational risk: Misconfiguration of certificate paths can cause nodes to reject peer connections, resulting in a split\u2011brain scenario.",
+            "Operational risk: Loss of the new CA private key would repeat the current issue; ensure secure backup and access controls."
+          ],
+          "is_grounded": true,
+          "evidence_sources": [
+            {
+              "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_2",
+              "source": "postmortem_io",
+              "document_type": "postmortems",
+              "score": 0.7415,
+              "snippet": "node was restarted. It turns out that the TLS certificate was expired. This is normally a simple fix. Someone would go to the Certificate Authority (CA) and request a renewal \u2013 or if that fails, gener"
+            },
+            {
+              "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_1",
+              "source": "postmortem_io",
+              "document_type": "postmortems",
+              "score": 0.0178,
+              "snippet": "environment could not reconnect to the staging Consul server after the database node was restarted. It turns out that the TLS certificate was expired. This is normally a simple fix. Someone would go t"
+            }
+          ],
+          "updated_at": "2026-09-13T11:08:20.853106+00:00"
+        },
+        "awaiting_approval": {
+          "status": "APPROVED",
+          "reviewer": "IT Ops Engineer",
+          "reason": "Resolution approved via incident details interface.",
+          "feedback": "",
+          "updated_at": "2026-09-13T11:40:33.302810+00:00"
+        },
+        "jira_update": {
+          "status": "COMPLETED",
+          "comment_posted": true,
+          "transition_applied": true,
+          "updated_at": "2026-09-13T11:40:37.891100+00:00"
+        },
+        "verification": {
+          "status": "COMPLETED",
+          "verified_jira_status": "Resolved",
+          "verified_resolution": null,
+          "updated_at": "2026-09-13T11:40:39.088337+00:00"
+        },
+        "completed": {
+          "status": "COMPLETED",
+          "message": "AI resolution approved, written back to Jira, and verified against Jira source of truth.",
+          "updated_at": "2026-09-13T11:40:39.088337+00:00"
+        }
+      },
+      "current_stage": "normalization",
+      "stage_status": "completed",
+      "classification": {
+        "category": "Security",
+        "service": "TLS Certificate"
+      },
+      "evidence": [
+        {
+          "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_2",
+          "text": "node was restarted. It turns out that the TLS certificate was expired. This is normally a simple fix. Someone would go to the Certificate Authority (CA) and request a renewal \u2013 or if that fails, generate a new certificate to be signed by the same CA. That certificate would replace the expired copy and the service would be restarted. All of the connections should reestablish using the new certificate and just like with any other rolling configuration change, it should be transparent to all users. After looking everywhere, and asking everyone on the team, we got the definitive answer that the CA key we created a year ago for this self-signed certificate had been lost. These test certificates were generated for the original proof-of-concept installation for this service and were never intended to be transitioned into production. However, since everything was working perfectly, the expired test certificate had not been calling attention to itself. A few things should have been done, including: Rebuilding the service with production in mind; conducting a production readiness review; and monitoring. But a year ago, our production team was in a very different place. We were small with just four engineers, and three new team members: A manager, director, and engineer, all of whom were still onboarding. We were less focused on the gaps that led to this oversight a year ago and more focused on fixing the urgent problem today. First, we needed to validate the problem using the information we\u2019d gathered. Since we couldn\u2019t update the existing certificates, we turned validation off on the client that couldn\u2019t connect. Turning validation off didn\u2019t change anything since the encrypted connections validate both the cluster side and client side. Next, we changed the setting on one server node in the cluster and so the restarted client could then connect to the server node. The problem now was that the server could no longer connect to any other cluster node and could not rejoin the cluster. The server we changed was not validating connections, meaning it was ignoring the expired certificate of its peers in the cluster but the peers were not returning the favor. They were shunning it, putting the whole cluster in a degraded state. We realized that no matter what we did, some servers and some clients would not be able to connect to each other until after the change had been made everywhere",
+          "source": "postmortem_io",
+          "document_type": "postmortems",
+          "score": 0.7415
+        },
+        {
+          "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_1",
+          "text": "environment could not reconnect to the staging Consul server after the database node was restarted. It turns out that the TLS certificate was expired. This is normally a simple fix. Someone would go to the Certificate Authority (CA) and request a renewal \u2013 or if that fails, generate a new certificate to be signed by the same CA. That certificate would replace",
+          "source": "postmortem_io",
+          "document_type": "postmortems",
+          "score": 0.0178
+        },
+        {
+          "chunk_id": "algolia--2020-05-30--ssl-certificate-chain-outage__chunk_0",
+          "text": "Title: May 30 SSL Incident Company: Algolia Publication Date: 2020-05-30 [Summary] Summary and key takeaways Two root certification authorities expired on May 30, 2020.Some of our customers experienced service outages for up to 1.5 hours (if they had outdated OpenSSL libraries), and others up to 3 hours (if they also had outdated certificate stores).The issue has been fully mitigated, and the service availability was restored for everyone. Although related to OpenSSL, HTTPS and PKI certificates, this was not a security incident. On May 30, 2020, 10:48 UTC, we experienced a rare situation in the Public Key Infrastructure of the Internet when two of the root certification authorities expired, one cross-signed by the other. In theory, this isn\u2019t anything unusual. Certificates expire all the time (normally in a year or even 90 days if you use Let\u2019s Encrypt), and certification authorities expire once in many years. But on May 30, the expiring certification authority exposed an underlying issue which made our API unavailable for some of our customers. On May 30, a minute after 10:48 UTC when the certification authorities expired, our Site Reliability Engineering (SRE) team got notified that there was a certificate problem with our service. This was an unexpected message because we carefully check that our certificates are valid and don\u2019t expire any time soon. A quick verification in the browser also confirmed that everything seemed normal and that the API was responding correctly. However, a second alert from a different service notified the SRE team, claiming again that the certificate expired. Another verification in the browser again confirmed that the service was working and responding. For some reason, the Pingdom monitoring service saw the certificate as expired, but everything was working for us in the browsers. Looking at the traffic graphs on our infrastructure, we noticed that there was a decrease in the number of API calls, but they were nowhere close to zero. When things don\u2019t work completely, it is often easier to identify what does not work rather than in situations when some things work and some things don\u2019t. The direction of the investigation quickly changed when we tested the impacted services from the command line of our laptops with macOS. Suddenly, a simplecurlto the domain was failing saying the certificate was not valid. We were on to something, and the Qualys SSL Labs scanner showed many interesting things: Our certificate was valid.The certificate of",
+          "source": "postmortem_io",
+          "document_type": "postmortems",
+          "score": 0.0111
+        },
+        {
+          "chunk_id": "shopify--2021-09-30--lets-encrypt-root-certificate-expiry-outage__chunk_5",
+          "text": "[Root Cause]\nWe wondered why it took about 15 minutes for us to start seeing the effects of that certificate expiry. The answer is actually in the trigger as we identified that we started seeing the issue on the Shopify monolith when a deployment happened. HTTP has a process of permanent connections, also called HTTP keep-alive, that keeps a connection alive as long as it\u2019s being used, and only closes it when it hasn\u2019t been used after a short period of time. Also, TLS validation, the check of the validity of certificates, is only performed while initializing the connection, but the trust is maintained for the duration of that connection. Given the traffic on Shopify, our deployments kept alive the connections to other systems, and the only reason those connections were broken was because of Kubernetes pods being recreated to deploy the new version, leading to a new HTTP connection and the failure of TLS validation\u2014hence the 15 minutes discrepancy.",
+          "source": "postmortem_io",
+          "document_type": "postmortems",
+          "score": 0.0057
+        },
+        {
+          "chunk_id": "mack_b_01458__chunk_0",
+          "text": "Problem:\nVPN client connection fails with 'SSL/TLS error' after certificate update.\n\nTroubleshooting Steps / Solution:\nUpdate client certificate, check certificate chain validity, clear VPN client cache, and reconfigure trust settings.",
+          "source": "mack",
+          "document_type": "runbooks",
+          "score": 0.001
+        }
+      ],
+      "rca": {
+        "root_cause": "Service outage was caused by an expired TLS certificate (self\u2011signed test certificate) that could not be renewed because the CA key was lost, leading to failed TLS validation and cluster degradation.",
+        "status": "identified",
+        "evidence": [
+          {
+            "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_2",
+            "reason": "Describes the TLS certificate being expired, the CA key being lost, and the resulting inability of nodes to reconnect, directly matching the incident description."
+          },
+          {
+            "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_1",
+            "reason": "Confirms that the environment could not reconnect after a node restart because the TLS certificate was expired."
+          }
+        ]
+      },
+      "resolution": {
+        "recommendation": "Replace the expired self\u2011signed TLS certificate with a newly generated production\u2011grade certificate signed by a valid CA and roll it out across all cluster nodes.",
+        "steps": [
+          "Step 1: Generate a new private CA key and root certificate (or obtain a certificate from a trusted external CA).",
+          "Step 2: Issue new server and client certificates for each service node, signed by the new CA.",
+          "Step 3: Distribute the new CA bundle and node certificates to all servers and clients, updating configuration files to point to the new cert paths.",
+          "Step 4: Perform a rolling restart of cluster nodes, replacing certificates one node at a time to maintain quorum.",
+          "Step 5: Verify TLS handshake success and cluster health after each node restart using health\u2011check endpoints.",
+          "Step 6: Enable automated certificate expiry monitoring and alerting (e.g., Prometheus alerts, monitoring checks).",
+          "Step 7: Document the new certificate management process, including rotation schedule and backup of CA keys."
+        ],
+        "risks": [
+          "Operational risk: Rolling restart may temporarily reduce cluster quorum, leading to degraded service if not sequenced correctly.",
+          "Operational risk: Misconfiguration of certificate paths can cause nodes to reject peer connections, resulting in a split\u2011brain scenario.",
+          "Operational risk: Loss of the new CA private key would repeat the current issue; ensure secure backup and access controls."
+        ],
+        "evidence": [
+          "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_2",
+          "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_1"
+        ],
+        "is_grounded": true,
+        "grounding_type": "rag_grounded",
+        "evidence_sources": [
+          {
+            "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_2",
+            "source": "postmortem_io",
+            "document_type": "postmortems",
+            "score": 0.7415,
+            "snippet": "node was restarted. It turns out that the TLS certificate was expired. This is normally a simple fix. Someone would go to the Certificate Authority (CA) and request a renewal \u2013 or if that fails, gener"
+          },
+          {
+            "chunk_id": "gitlab--2019-08-07--consul-outage-that-never-happened__chunk_1",
+            "source": "postmortem_io",
+            "document_type": "postmortems",
+            "score": 0.0178,
+            "snippet": "environment could not reconnect to the staging Consul server after the database node was restarted. It turns out that the TLS certificate was expired. This is normally a simple fix. Someone would go t"
+          }
+        ]
+      },
+      "approval": {
+        "status": "approved",
+        "reviewer": "IT Ops Engineer",
+        "timestamp": "2026-09-13T11:40:33.302810+00:00",
+        "reason": "Resolution approved via incident details interface.",
+        "feedback": ""
+      },
+      "jira_update": {
+        "status": "completed",
+        "comment_posted": true,
+        "comment_id": "10137",
+        "comment_posted_at": "2026-09-13T11:40:35.413325+00:00",
+        "transition_id": "761",
+        "transition_name": "Resolve this issue",
+        "target_status": "Resolved",
+        "transition_applied_at": "2026-09-13T11:40:37.891100+00:00",
+        "transition_applied": true,
+        "message": "Resolution comment and transition applied to Jira.",
+        "verified": true,
+        "verified_jira_status": "Resolved",
+        "verified_resolution": null
+      }
+    },
+    "current_stage": "completed",
+    "stage_status": "completed"
+  }
+]
